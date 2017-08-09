@@ -1,2 +1,3 @@
-# Redux_BoilerPlate
-Getting started project with React and Redux
+# ReduxSimpleStarter
+npm start
+npm install
